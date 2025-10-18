@@ -11,6 +11,6 @@ package com.mycompany.lab1;
 public class bai4 {
 
     public static void main(String[] args) {
-          // sinh viên code ở đây
+          System.out.println("toi ten la:Thai Thanh ITI 2");
     }
 }
